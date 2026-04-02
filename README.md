@@ -15,6 +15,8 @@
   </h4>
 </p>
 
+<h3>Projects</h3>
+
 <br clear="both"/>
 
 <h3 align="left">Languages and Tools:</h3>  

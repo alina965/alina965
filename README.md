@@ -1,3 +1,4 @@
+<img align="right" src="https://i.pinimg.com/originals/f6/fe/ad/f6fead42a04fcd81504a8b8e21a156d5.gif" width="250"/>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alina Oleinichenko
 ===========================================================================================================================================
 

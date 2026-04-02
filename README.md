@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a 2nd year student at NSU. I am studying Go at T-Academy.
 
 * I'm based in Novosibirsk
-* Telegram: @alinaoleinichenko
+* Telegram: https://t.me/alinaoleinichenko
 * E-mail: alinaoleinichenko99@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>  

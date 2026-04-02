@@ -6,7 +6,7 @@
   
   <h4>
     <ul>
-      <li>⚔️ 2nd year student at NSU</li>
+      <li>⚔️ 3nd year student at NSU</li>
       <li>❤️‍🩹 Studying Go at T-Academy</li>
       <li>🌍 Based in Novosibirsk</li>
       <li>✒️ Telegram: https://t.me/alinaoleinichenko</li>

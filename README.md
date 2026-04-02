@@ -22,4 +22,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/little_crow)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debil&label=Profile%20views&color=0e75b6&style=flat" alt="debil" /> </p>  
-<img src="https://i.pinimg.com/originals/e9/c4/a5/e9c4a51c660be18a8f8d854f0fc2aa50.gif">
+<img src="https://i.pinimg.com/1200x/5d/90/28/5d9028e745277942a61c2904bb64593a.jpg">

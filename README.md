@@ -5,3 +5,5 @@ I am a 2nd year student at NSU. I am studying Go at T-Academy.
 
 * 🌍  I'm based in Novosibirsk
 * ✉️  You can contact me at [https://t.me/alinaoleinichenko](mailto:https://t.me/alinaoleinichenko)
+
+![Leetcode Stats](https://leetcard.little_crow/little_crow)

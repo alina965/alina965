@@ -1,7 +1,5 @@
 # About me
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f6/fe/ad/f6fead42a04fcd81504a8b8e21a156d5.gif" width="250" align="right">
-  
   <h3>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25"> My name is Alina Oleinichenko</h3>
   
   <h4>
